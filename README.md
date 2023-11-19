@@ -2,16 +2,18 @@
 
 Submitted by: **Bunyod Abdusaidov**
 
-**Random Color** is an app that... [TODO] 
+**Random Color** is an app that changes the background color and color of texts and button when the button is clicked. 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Improved the UI by adding background color to labels and changing the font and size.
+- [x] Tapping the button changes the screen color to a random color
+- [x] Implemented a function that changes the text color and button color to random color when button is tapped.
  
 ## Video Walkthrough
 
@@ -19,15 +21,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
+
+* Telegram messenger
+* X (aka Twitter)
+* Discord
+* Chess
+
+* I would like to build Telegram messenger. It's a complex messenger app with all kinds of features. Although, I wouldn't be able to replicate the exact app, I would want to build messenger the resonates Telegram, especially the UI and features. Features would be the profile, personal chats, groups, channels, and bots.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It wasn't too challenging to build the app since it didn't involve any complex features. Although navigating around the app and figuring out how to access the label attributes and modify them was a bit confusing.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Bunyod Abdusaidov]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
