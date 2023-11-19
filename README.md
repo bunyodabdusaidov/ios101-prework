@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/bunyodabdusaidov/ios101-prework/blob/main/ios101-video-workthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming 
 
